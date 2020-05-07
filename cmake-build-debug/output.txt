@@ -1,35 +1,35 @@
 Graph #0: 
 FOUND LOOP
-Trivial elapsed time: 0.068571s
+Trivial elapsed time: 0.056248ms
 FOUND LOOP
-Floyds elapsed time: 1.2182e-05s
+Floyds elapsed time: 0.012685ms
 
 
 Graph #1: 
 FOUND LOOP
-Trivial elapsed time: 0.019281s
+Trivial elapsed time: 0.020261ms
 FOUND LOOP
-Floyds elapsed time: 8.96e-06s
+Floyds elapsed time: 0.009926ms
 
 
 Graph #2: 
 FOUND LOOP
-Trivial elapsed time: 0.050253s
+Trivial elapsed time: 0.052987ms
 FOUND LOOP
-Floyds elapsed time: 2.1517e-05s
+Floyds elapsed time: 0.023132ms
 
 
 Graph #3: 
 NO LOOP FOUND
-Trivial elapsed time: 0.108482s
+Trivial elapsed time: 0.111472ms
 NO LOOP FOUND
-Floyds elapsed time: 5.9694e-05s
+Floyds elapsed time: 0.063598ms
 
 
 Graph #4: 
 FOUND LOOP
-Trivial elapsed time: 0.2875s
+Trivial elapsed time: 0.306032ms
 FOUND LOOP
-Floyds elapsed time: 0.000208469s
+Floyds elapsed time: 0.221198ms
 
 
