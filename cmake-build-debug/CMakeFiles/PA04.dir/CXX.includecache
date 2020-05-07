@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/travisarmistead/CLionProjects/PA04/graph.h
+iostream
+-
+unordered_map
+-
+stack
+-
+queue
+-
+vector
+-
+iterator
+-
+fstream
+-
+
+/Users/travisarmistead/CLionProjects/PA04/main.cpp
+iostream
+-
+graph.h
+/Users/travisarmistead/CLionProjects/PA04/graph.h
+chrono
+-
+fstream
+-
+

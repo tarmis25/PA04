@@ -1,0 +1,35 @@
+Graph #0: 
+FOUND LOOP
+Trivial elapsed time: 0.068571s
+FOUND LOOP
+Floyds elapsed time: 1.2182e-05s
+
+
+Graph #1: 
+FOUND LOOP
+Trivial elapsed time: 0.019281s
+FOUND LOOP
+Floyds elapsed time: 8.96e-06s
+
+
+Graph #2: 
+FOUND LOOP
+Trivial elapsed time: 0.050253s
+FOUND LOOP
+Floyds elapsed time: 2.1517e-05s
+
+
+Graph #3: 
+NO LOOP FOUND
+Trivial elapsed time: 0.108482s
+NO LOOP FOUND
+Floyds elapsed time: 5.9694e-05s
+
+
+Graph #4: 
+FOUND LOOP
+Trivial elapsed time: 0.2875s
+FOUND LOOP
+Floyds elapsed time: 0.000208469s
+
+
